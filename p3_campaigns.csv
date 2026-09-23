@@ -1,0 +1,61 @@
+campaign_id,campaign_name,channel,card_product,offer_type,start_date,end_date,budget_usd
+CMP00001,Cash_0%APRIntro_Jan2025,TV,Amex Cash Magnet,0% APR Intro,2025-01-01,2025-01-21,81100.0
+CMP00002,Cash_DiningRewardsBoost_Jan2025,In-App,Amex Cash Magnet,Dining Rewards Boost,2025-01-01,2025-01-31,58100.0
+CMP00003,Green_CashbackBonus_Jan2025,Social Media,Amex Green Card,Cashback Bonus,2025-01-01,2025-01-28,102200.0
+CMP00004,Gold_WelcomePointsBonus_Jan2025,Email,Amex Gold Card,Welcome Points Bonus,2025-01-01,2025-01-16,231600.0
+CMP00005,Cash_DiningRewardsBoost_Feb2025,Affiliate/Partner,Amex Cash Magnet,Dining Rewards Boost,2025-02-01,2025-02-25,118800.0
+CMP00006,Cash_0%APRIntro_Feb2025,Direct Mail,Amex Cash Magnet,0% APR Intro,2025-02-01,2025-02-26,42200.0
+CMP00007,Gold_0%APRIntro_Feb2025,Email,Amex Gold Card,0% APR Intro,2025-02-01,2025-02-18,207100.0
+CMP00008,Green_TravelCredit_Feb2025,In-App,Amex Green Card,Travel Credit,2025-02-01,2025-02-25,52900.0
+CMP00009,Cash_WelcomePointsBonus_Feb2025,TV,Amex Cash Magnet,Welcome Points Bonus,2025-02-01,2025-02-16,58900.0
+CMP00010,Gold_CashbackBonus_Feb2025,TV,Amex Gold Card,Cashback Bonus,2025-02-01,2025-02-21,198400.0
+CMP00011,Blue_TravelCredit_Mar2025,Email,Amex Blue Business Plus,Travel Credit,2025-03-01,2025-03-27,146400.0
+CMP00012,Platinum_WelcomePointsBonus_Mar2025,Social Media,Amex Platinum Card,Welcome Points Bonus,2025-03-01,2025-03-28,223600.0
+CMP00013,Platinum_TravelCredit_Mar2025,Search Ads,Amex Platinum Card,Travel Credit,2025-03-01,2025-03-25,132800.0
+CMP00014,Platinum_CashbackBonus_Apr2025,TV,Amex Platinum Card,Cashback Bonus,2025-04-01,2025-04-20,211000.0
+CMP00015,Cash_CashbackBonus_Apr2025,Affiliate/Partner,Amex Cash Magnet,Cashback Bonus,2025-04-01,2025-05-01,130500.0
+CMP00016,Blue_DiningRewardsBoost_Apr2025,Social Media,Amex Blue Business Plus,Dining Rewards Boost,2025-04-01,2025-04-18,89900.0
+CMP00017,Gold_0%APRIntro_Apr2025,Social Media,Amex Gold Card,0% APR Intro,2025-04-01,2025-04-25,96800.0
+CMP00018,Blue_NoAnnualFee(1stYear)_Apr2025,Search Ads,Amex Blue Business Plus,No Annual Fee (1st Year),2025-04-01,2025-04-20,72800.0
+CMP00019,Gold_TravelCredit_Apr2025,Email,Amex Gold Card,Travel Credit,2025-04-01,2025-04-16,103100.0
+CMP00020,Gold_0%APRIntro_May2025,TV,Amex Gold Card,0% APR Intro,2025-05-01,2025-05-26,153800.0
+CMP00021,Blue_TravelCredit_May2025,TV,Amex Blue Business Plus,Travel Credit,2025-05-01,2025-05-22,171700.0
+CMP00022,Blue_CashbackBonus_May2025,Social Media,Amex Blue Business Plus,Cashback Bonus,2025-05-01,2025-05-28,118200.0
+CMP00023,Cash_CashbackBonus_May2025,In-App,Amex Cash Magnet,Cashback Bonus,2025-05-01,2025-05-16,211700.0
+CMP00024,Platinum_CashbackBonus_Jun2025,Affiliate/Partner,Amex Platinum Card,Cashback Bonus,2025-06-01,2025-06-20,113600.0
+CMP00025,Green_NoAnnualFee(1stYear)_Jun2025,TV,Amex Green Card,No Annual Fee (1st Year),2025-06-01,2025-06-19,166700.0
+CMP00026,Cash_CashbackBonus_Jun2025,Social Media,Amex Cash Magnet,Cashback Bonus,2025-06-01,2025-07-01,74300.0
+CMP00027,Cash_CashbackBonus_Jun2025,Affiliate/Partner,Amex Cash Magnet,Cashback Bonus,2025-06-01,2025-06-26,238900.0
+CMP00028,Gold_NoAnnualFee(1stYear)_Jun2025,In-App,Amex Gold Card,No Annual Fee (1st Year),2025-06-01,2025-06-28,156300.0
+CMP00029,Cash_NoAnnualFee(1stYear)_Jul2025,Direct Mail,Amex Cash Magnet,No Annual Fee (1st Year),2025-07-01,2025-07-23,47600.0
+CMP00030,Green_TravelCredit_Jul2025,Social Media,Amex Green Card,Travel Credit,2025-07-01,2025-07-15,176000.0
+CMP00031,Blue_NoAnnualFee(1stYear)_Jul2025,Search Ads,Amex Blue Business Plus,No Annual Fee (1st Year),2025-07-01,2025-07-28,166300.0
+CMP00032,Cash_WelcomePointsBonus_Jul2025,Search Ads,Amex Cash Magnet,Welcome Points Bonus,2025-07-01,2025-07-18,46400.0
+CMP00033,Green_WelcomePointsBonus_Jul2025,TV,Amex Green Card,Welcome Points Bonus,2025-07-01,2025-07-29,20900.0
+CMP00034,Gold_CashbackBonus_Jul2025,In-App,Amex Gold Card,Cashback Bonus,2025-07-01,2025-07-24,218800.0
+CMP00035,Blue_NoAnnualFee(1stYear)_Aug2025,Search Ads,Amex Blue Business Plus,No Annual Fee (1st Year),2025-08-01,2025-08-22,108100.0
+CMP00036,Gold_WelcomePointsBonus_Aug2025,Direct Mail,Amex Gold Card,Welcome Points Bonus,2025-08-01,2025-08-27,58200.0
+CMP00037,Blue_CashbackBonus_Aug2025,Social Media,Amex Blue Business Plus,Cashback Bonus,2025-08-01,2025-08-31,156900.0
+CMP00038,Green_CashbackBonus_Aug2025,In-App,Amex Green Card,Cashback Bonus,2025-08-01,2025-08-17,106100.0
+CMP00039,Blue_WelcomePointsBonus_Sep2025,In-App,Amex Blue Business Plus,Welcome Points Bonus,2025-09-01,2025-09-22,215800.0
+CMP00040,Blue_NoAnnualFee(1stYear)_Sep2025,Search Ads,Amex Blue Business Plus,No Annual Fee (1st Year),2025-09-01,2025-09-22,190300.0
+CMP00041,Gold_NoAnnualFee(1stYear)_Sep2025,TV,Amex Gold Card,No Annual Fee (1st Year),2025-09-01,2025-09-24,185600.0
+CMP00042,Blue_DiningRewardsBoost_Sep2025,In-App,Amex Blue Business Plus,Dining Rewards Boost,2025-09-01,2025-09-18,130200.0
+CMP00043,Blue_CashbackBonus_Sep2025,Direct Mail,Amex Blue Business Plus,Cashback Bonus,2025-09-01,2025-09-25,134400.0
+CMP00044,Platinum_NoAnnualFee(1stYear)_Sep2025,Direct Mail,Amex Platinum Card,No Annual Fee (1st Year),2025-09-01,2025-10-01,179400.0
+CMP00045,Blue_NoAnnualFee(1stYear)_Oct2025,Email,Amex Blue Business Plus,No Annual Fee (1st Year),2025-10-01,2025-10-26,244600.0
+CMP00046,Platinum_0%APRIntro_Oct2025,Email,Amex Platinum Card,0% APR Intro,2025-10-01,2025-10-18,248400.0
+CMP00047,Green_0%APRIntro_Oct2025,In-App,Amex Green Card,0% APR Intro,2025-10-01,2025-10-29,32200.0
+CMP00048,Blue_CashbackBonus_Oct2025,Direct Mail,Amex Blue Business Plus,Cashback Bonus,2025-10-01,2025-10-29,174800.0
+CMP00049,Blue_TravelCredit_Nov2025,Direct Mail,Amex Blue Business Plus,Travel Credit,2025-11-01,2025-11-17,220800.0
+CMP00050,Green_CashbackBonus_Nov2025,Social Media,Amex Green Card,Cashback Bonus,2025-11-01,2025-11-16,170500.0
+CMP00051,Platinum_0%APRIntro_Nov2025,Social Media,Amex Platinum Card,0% APR Intro,2025-11-01,2025-11-27,153500.0
+CMP00052,Cash_TravelCredit_Nov2025,Affiliate/Partner,Amex Cash Magnet,Travel Credit,2025-11-01,2025-11-27,202400.0
+CMP00053,Platinum_TravelCredit_Nov2025,TV,Amex Platinum Card,Travel Credit,2025-11-01,2025-11-17,68500.0
+CMP00054,Cash_WelcomePointsBonus_Nov2025,Email,Amex Cash Magnet,Welcome Points Bonus,2025-11-01,2025-11-21,130600.0
+CMP00055,Blue_0%APRIntro_Dec2025,Affiliate/Partner,Amex Blue Business Plus,0% APR Intro,2025-12-01,2025-12-23,186800.0
+CMP00056,Cash_TravelCredit_Dec2025,Social Media,Amex Cash Magnet,Travel Credit,2025-12-01,2025-12-27,105700.0
+CMP00057,Blue_0%APRIntro_Dec2025,In-App,Amex Blue Business Plus,0% APR Intro,2025-12-01,2025-12-15,247500.0
+CMP00058,Platinum_WelcomePointsBonus_Dec2025,Social Media,Amex Platinum Card,Welcome Points Bonus,2025-12-01,2025-12-27,88300.0
+CMP00059,Gold_CashbackBonus_Dec2025,Affiliate/Partner,Amex Gold Card,Cashback Bonus,2025-12-01,2025-12-17,145000.0
+CMP00060,Platinum_DiningRewardsBoost_Dec2025,Direct Mail,Amex Platinum Card,Dining Rewards Boost,2025-12-01,2025-12-29,236700.0
